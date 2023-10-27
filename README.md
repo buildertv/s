@@ -2,14 +2,14 @@
 ![GitHub stars](https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social)
 
 # 🔗 Rút gọn link miễn phí
-(Forked from nelsontky/
-gh-pages-url-shortener)
+[Forked from nelsontky/
+gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener)
 
 Đây là công cụ rút ngắn URL tối thiểu có thể được lưu trữ hoàn toàn trên các trang GitHub. Nó
 không cần bảo trì bất kỳ máy chủ hoặc cơ sở dữ liệu nào và có thể được lưu trữ
 hoàn toàn miễn phí trên GitHub!
 
-## 💡 Hướng dẫn sử dụng
+# 💡 Hướng dẫn sử dụng
 1. Bạn cần có tài khoản Github.
   
 2. Ấn vào `New issue` trong link dưới đây và dán vào tiêu đề liên kết bạn muốn rút ngắn (bao gồm cả `http(s)://`):
@@ -26,5 +26,5 @@ hoàn toàn miễn phí trên GitHub!
 <img src="/buoc4.jpg" alt="Bước 4" width="550px">
 
 Ví dụ:
-[hoangtuan.net/s/1](https://hoangtuan.net/s/3) 
+[hoangtuan.net/s/3](https://hoangtuan.net/s/3) 
 
