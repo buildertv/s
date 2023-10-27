@@ -10,13 +10,19 @@ không cần bảo trì bất kỳ máy chủ hoặc cơ sở dữ liệu nào v
 hoàn toàn miễn phí trên GitHub!
 
 
-## 🇻🇳 Hướng dẫn sử dụng
+##💡**Hướng dẫn sử dụng**
 
-1. Để thêm một liên kết ngắn mới, hãy ấn vào `New issue` trong link dưới đây và dán vào tiêu đề liên kết bạn muốn rút ngắn (bao gồm cả `http(s)://`) [https://github.com/buildertv/s/issues](https://github.com/buildertv/s/issues).
+1. Bạn cần có tài khoản Github.
+  
+2. Ấn vào `New issue` trong link dưới đây và dán vào tiêu đề liên kết bạn muốn rút ngắn (bao gồm cả `http(s)://`):
+ [https://github.com/buildertv/s/issues](https://github.com/buildertv/s/issues)
+**Các bước cụ thể:**
+<img src="images/buoc1.jpg" alt="Bước 1" height="176px">
+<img src="images/buoc2-3.jpg" alt="Bước 2-3" height="176px">
 
-2. Link rút ngắn được tạo ra sẽ có dạng
+3. Link rút ngắn được tạo ra sẽ có dạng:
  `hoangtuan.net/s/{số_issue}`
-
-3. Ví dụ:
-[hoangtuan.net/s/1](https://hoangtuan.net/s/1) 
+<img src="images/buoc4.jpg" alt="Bước 4" height="176px">
+Ví dụ:
+[hoangtuan.net/s/1](https://hoangtuan.net/s/3) 
 
