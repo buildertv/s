@@ -9,7 +9,7 @@ gh-pages-url-shortener)
 không cần bảo trì bất kỳ máy chủ hoặc cơ sở dữ liệu nào và có thể được lưu trữ
 hoàn toàn miễn phí trên GitHub!
 
-
+# 🔗 Rút gọn link miễn phí
 ##💡Hướng dẫn sử dụng
 
 1. Bạn cần có tài khoản Github.
@@ -20,12 +20,13 @@ hoàn toàn miễn phí trên GitHub!
  
 **Các bước cụ thể:**
 
-<img src="/buoc1.jpg" alt="Bước 1" height="176px">
-<img src="/buoc2-3.jpg" alt="Bước 2-3" height="176px">
+<img src="/buoc1.jpg" alt="Bước 1" width="550px">
+<img src="/buoc2-3.jpg" alt="Bước 2-3" width="550px">
 
-4. Link rút ngắn được tạo ra sẽ có dạng:
+3. Link rút ngắn được tạo ra sẽ có dạng:
  `hoangtuan.net/s/{số_issue}`
-<img src="/buoc4.jpg" alt="Bước 4" height="176px">
+<img src="/buoc4.jpg" alt="Bước 4" width="550px">
+
 Ví dụ:
 [hoangtuan.net/s/1](https://hoangtuan.net/s/3) 
 
