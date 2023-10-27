@@ -12,11 +12,11 @@ hoàn toàn miễn phí trên GitHub!
 
 ## 🇻🇳 Hướng dẫn sử dụng
 
-1. Để thêm một liên kết ngắn mới, hãy ấn vào `New Issues` trong link dưới đây và dán vào tiêu đề liên kết bạn muốn rút ngắn (bao gồm cả `http(s)://`) [https://github.com/buildertv/s/issues](https://github.com/buildertv/s/issues).
+1. Để thêm một liên kết ngắn mới, hãy ấn vào `New issue` trong link dưới đây và dán vào tiêu đề liên kết bạn muốn rút ngắn (bao gồm cả `http(s)://`) [https://github.com/buildertv/s/issues](https://github.com/buildertv/s/issues).
 
 2. Link rút ngắn được tạo ra sẽ có dạng
  `hoangtuan.net/s/{số_issue}`
 
-3. Demo:
+3. Ví dụ:
 [hoangtuan.net/s/1](https://hoangtuan.net/s/1) 
 
