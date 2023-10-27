@@ -9,9 +9,7 @@ gh-pages-url-shortener)
 không cần bảo trì bất kỳ máy chủ hoặc cơ sở dữ liệu nào và có thể được lưu trữ
 hoàn toàn miễn phí trên GitHub!
 
-# 🔗 Rút gọn link miễn phí
-##💡Hướng dẫn sử dụng
-
+## 💡 Hướng dẫn sử dụng
 1. Bạn cần có tài khoản Github.
   
 2. Ấn vào `New issue` trong link dưới đây và dán vào tiêu đề liên kết bạn muốn rút ngắn (bao gồm cả `http(s)://`):
