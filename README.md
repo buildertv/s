@@ -14,7 +14,7 @@ entirely on GitHub for free!
 
 1. To add a new short link, add an issue with the title being the link you want
    to shorten (including the `http(s)://`) to
-   [https://github.com/buildertv/url-shortener/issues](https://github.com/buildertv/url-shortener/issues).
+   [https://github.com/buildertv/s/issues](https://github.com/buildertv/s/issues).
 
 1. The newly created short url can be accessed via `nlsn.cf/{issue_number}`
 
