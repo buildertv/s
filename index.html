@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="refresh" content="3; url=https://hoangtuan.net/rut-gon-link" />
+    <meta http-equiv="refresh" content="10; url=https://hoangtuan.net/rut-gon-link" />
 </head>
   <body>
     <p>URL ngắn không hợp lệ! (Hoặc bạn đã spam trang web quá nhiều)</p>
@@ -10,5 +10,32 @@
         Tìm hiểu thêm về công cụ rút ngắn URL này
       </a>
     </p>
+      <input type="text" value="Nhập số cần copy vào đây" id="myInput" onclick="this.value=''" onblur="if (this.value == '') {this.value = 'Nhập số cần copy vào đây';}">
+<button onclick="myFunction()">Copy</button>
+
+<script>
+function myFunction() {
+  /* Lấy phần tử input */
+  var copyText = document.getElementById("myInput");
+
+  /* Thêm giá trị của phần tử input vào sau "https://hoangtuan.net/s/" */
+  var fullText = "https://hoangtuan.net/s/" + copyText.value;
+
+  /* Tạo một phần tử textarea tạm thời */
+  var tempElement = document.createElement("textarea");
+  tempElement.value = fullText;
+  document.body.appendChild(tempElement);
+
+  /* Chọn văn bản trong phần tử textarea */
+  tempElement.select();
+  document.execCommand("copy");
+
+  /* Xóa phần tử textarea tạm thời */
+  document.body.removeChild(tempElement);
+
+  /* Thông báo cho người dùng văn bản đã được copy */
+  alert("Đã copy link: " + fullText);
+}
+</script>
   </body>
 </html>
